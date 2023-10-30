@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.amazon.testCases.SearchTest">
+        <methods>
+          <include name="tc3_verifyThatWhenUserEntersCoupleOfLettersInAmazonSearchBoxSuggestedProductListShouldBeUpdated"/>
+          <include name="tearDown"/>
+          <include name="tc8_verifyThatUserIsAbleToGetSearchResultsWhenUserEntersSpecialCharacterIntoAmazonSearchBox"/>
+          <include name="tc4_verifyThatUserIsAbleToNavigateToASpecificOptionFromTheSuggestedProductList"/>
+          <include name="setUp"/>
+          <include name="tc6_verifyThatUserIsAbleToGetSearchResultsWhenUserEntersValidProductKeyWordInAmazonSearchBox"/>
+        </methods>
+      </class> <!-- com.amazon.testCases.SearchTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

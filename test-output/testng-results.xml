@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="8" failed="4" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-17T12:31:21 EDT" name="Default suite" finished-at="2023-10-17T12:34:00 EDT" duration-ms="159310">
+    <groups>
+    </groups>
+    <test started-at="2023-10-17T12:31:21 EDT" name="Default test" finished-at="2023-10-17T12:34:00 EDT" duration-ms="159310">
+      <class name="com.amazon.testCases.SearchTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:31:21 EDT" name="setUp" finished-at="2023-10-17T12:31:33 EDT" duration-ms="11747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="tc10_verifyWhenUserSearchsForAnyProductAndClicksOnAmazonSearchBoxSearchHistoryListShouldBeDisplayed()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:31:33 EDT" name="tc10_verifyWhenUserSearchsForAnyProductAndClicksOnAmazonSearchBoxSearchHistoryListShouldBeDisplayed" finished-at="2023-10-17T12:31:39 EDT" duration-ms="6398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc10_verifyWhenUserSearchsForAnyProductAndClicksOnAmazonSearchBoxSearchHistoryListShouldBeDisplayed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:31:39 EDT" name="tearDown" finished-at="2023-10-17T12:31:40 EDT" duration-ms="636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:31:40 EDT" name="setUp" finished-at="2023-10-17T12:31:50 EDT" duration-ms="10336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="tc11_verifyThatUserIsAbleToRemovesearchHistoryFromSearchHistoryList()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:31:50 EDT" name="tc11_verifyThatUserIsAbleToRemovesearchHistoryFromSearchHistoryList" finished-at="2023-10-17T12:32:06 EDT" duration-ms="15887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc11_verifyThatUserIsAbleToRemovesearchHistoryFromSearchHistoryList -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:32:06 EDT" name="tearDown" finished-at="2023-10-17T12:32:07 EDT" duration-ms="455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:32:07 EDT" name="setUp" finished-at="2023-10-17T12:32:15 EDT" duration-ms="7955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="tc12_verifyWhenUserSelectsAnOptionFromCategoriesDropDownListTheCursorShouldMoveIntoAmazonSearchBox()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:32:15 EDT" name="tc12_verifyWhenUserSelectsAnOptionFromCategoriesDropDownListTheCursorShouldMoveIntoAmazonSearchBox" finished-at="2023-10-17T12:32:16 EDT" duration-ms="1609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc12_verifyWhenUserSelectsAnOptionFromCategoriesDropDownListTheCursorShouldMoveIntoAmazonSearchBox -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:32:16 EDT" name="tearDown" finished-at="2023-10-17T12:32:17 EDT" duration-ms="662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:32:17 EDT" name="setUp" finished-at="2023-10-17T12:32:25 EDT" duration-ms="7559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="tc1_verifyThatWhenUserClicksOnAmazonSearchBoxSuggestedProductListShoudBeDisplayed()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:32:25 EDT" name="tc1_verifyThatWhenUserClicksOnAmazonSearchBoxSuggestedProductListShoudBeDisplayed" finished-at="2023-10-17T12:32:28 EDT" duration-ms="3822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1_verifyThatWhenUserClicksOnAmazonSearchBoxSuggestedProductListShoudBeDisplayed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:32:28 EDT" name="tearDown" finished-at="2023-10-17T12:32:29 EDT" duration-ms="403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:32:29 EDT" name="setUp" finished-at="2023-10-17T12:32:37 EDT" duration-ms="7803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="tc2_verifyWhenUserEntersSingleLetterInAmazonSearchBoxSuggestedProductListShouldBeDisplayed()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:32:37 EDT" name="tc2_verifyWhenUserEntersSingleLetterInAmazonSearchBoxSuggestedProductListShouldBeDisplayed" finished-at="2023-10-17T12:32:38 EDT" duration-ms="1798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2_verifyWhenUserEntersSingleLetterInAmazonSearchBoxSuggestedProductListShouldBeDisplayed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:32:38 EDT" name="tearDown" finished-at="2023-10-17T12:32:39 EDT" duration-ms="418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:32:39 EDT" name="setUp" finished-at="2023-10-17T12:32:45 EDT" duration-ms="5881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="tc3_verifyThatWhenUserEntersCoupleOfLettersInAmazonSearchBoxSuggestedProductListShouldBeUpdated()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:32:45 EDT" name="tc3_verifyThatWhenUserEntersCoupleOfLettersInAmazonSearchBoxSuggestedProductListShouldBeUpdated" finished-at="2023-10-17T12:32:50 EDT" duration-ms="5108" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='twotabsearchtextbox']"}
+  (Session info: MicrosoftEdge=118.0.2088.46)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [25acb72f67f73fc72cecd8ed3a4a7c5a, findElement {using=xpath, value=//input[@id='twotabsearchtextbox']}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 118.0.2088.46, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:60107}, msedge: {msedgedriverVersion: 118.0.2088.46 (175bd6acfc46..., userDataDir: C:\Users\albou\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60107/devtoo..., se:cdpVersion: 118.0.2088.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 25acb72f67f73fc72cecd8ed3a4a7c5a]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='twotabsearchtextbox']"}
+  (Session info: MicrosoftEdge=118.0.2088.46)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [25acb72f67f73fc72cecd8ed3a4a7c5a, findElement {using=xpath, value=//input[@id='twotabsearchtextbox']}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 118.0.2088.46, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:60107}, msedge: {msedgedriverVersion: 118.0.2088.46 (175bd6acfc46..., userDataDir: C:\Users\albou\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60107/devtoo..., se:cdpVersion: 118.0.2088.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 25acb72f67f73fc72cecd8ed3a4a7c5a
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at jdk.proxy2/jdk.proxy2.$Proxy16.sendKeys(Unknown Source)
+at com.amazon.base.Page.type(Page.java:69)
+at com.amazon.pages.HomePage.enterOneLetterIntoSearchBox(HomePage.java:36)
+at com.amazon.testCases.SearchTest.tc3_verifyThatWhenUserEntersCoupleOfLettersInAmazonSearchBoxSuggestedProductListShouldBeUpdated(SearchTest.java:47)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3_verifyThatWhenUserEntersCoupleOfLettersInAmazonSearchBoxSuggestedProductListShouldBeUpdated -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:32:50 EDT" name="tearDown" finished-at="2023-10-17T12:32:50 EDT" duration-ms="432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:32:50 EDT" name="setUp" finished-at="2023-10-17T12:32:55 EDT" duration-ms="4590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="tc4_verifyThatUserIsAbleToNavigateToASpecificOptionFromTheSuggestedProductList()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:32:55 EDT" name="tc4_verifyThatUserIsAbleToNavigateToASpecificOptionFromTheSuggestedProductList" finished-at="2023-10-17T12:33:00 EDT" duration-ms="5022" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='twotabsearchtextbox']"}
+  (Session info: MicrosoftEdge=118.0.2088.46)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [e4f9b47503d93d49399b64eda06e8d23, findElement {using=xpath, value=//input[@id='twotabsearchtextbox']}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 118.0.2088.46, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:60169}, msedge: {msedgedriverVersion: 118.0.2088.46 (175bd6acfc46..., userDataDir: C:\Users\albou\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60169/devtoo..., se:cdpVersion: 118.0.2088.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e4f9b47503d93d49399b64eda06e8d23]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='twotabsearchtextbox']"}
+  (Session info: MicrosoftEdge=118.0.2088.46)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [e4f9b47503d93d49399b64eda06e8d23, findElement {using=xpath, value=//input[@id='twotabsearchtextbox']}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 118.0.2088.46, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:60169}, msedge: {msedgedriverVersion: 118.0.2088.46 (175bd6acfc46..., userDataDir: C:\Users\albou\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60169/devtoo..., se:cdpVersion: 118.0.2088.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e4f9b47503d93d49399b64eda06e8d23
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at jdk.proxy2/jdk.proxy2.$Proxy16.click(Unknown Source)
+at com.amazon.base.Page.click(Page.java:65)
+at com.amazon.pages.HomePage.clickOnSearchTextBox(HomePage.java:32)
+at com.amazon.pages.HomePage.iterateThrouhAutoSuggestedProductListWhenClickingOnAmazonSearchBoxAndBreakAtSpecifiedIndex(HomePage.java:104)
+at com.amazon.testCases.SearchTest.tc4_verifyThatUserIsAbleToNavigateToASpecificOptionFromTheSuggestedProductList(SearchTest.java:56)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4_verifyThatUserIsAbleToNavigateToASpecificOptionFromTheSuggestedProductList -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:33:00 EDT" name="tearDown" finished-at="2023-10-17T12:33:00 EDT" duration-ms="500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:33:00 EDT" name="setUp" finished-at="2023-10-17T12:33:08 EDT" duration-ms="8019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="tc5_verifyWhenUserSelectAnOptionFromSuggestedProductListTheSearchResultShouldBeDisplayedOnSearchPage()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:33:08 EDT" name="tc5_verifyWhenUserSelectAnOptionFromSuggestedProductListTheSearchResultShouldBeDisplayedOnSearchPage" finished-at="2023-10-17T12:33:12 EDT" duration-ms="4091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc5_verifyWhenUserSelectAnOptionFromSuggestedProductListTheSearchResultShouldBeDisplayedOnSearchPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:33:12 EDT" name="tearDown" finished-at="2023-10-17T12:33:13 EDT" duration-ms="531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:33:13 EDT" name="setUp" finished-at="2023-10-17T12:33:17 EDT" duration-ms="4442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="tc6_verifyThatUserIsAbleToGetSearchResultsWhenUserEntersValidProductKeyWordInAmazonSearchBox()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:33:17 EDT" name="tc6_verifyThatUserIsAbleToGetSearchResultsWhenUserEntersValidProductKeyWordInAmazonSearchBox" finished-at="2023-10-17T12:33:23 EDT" duration-ms="5137" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='twotabsearchtextbox']"}
+  (Session info: MicrosoftEdge=118.0.2088.46)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d1158545a6d5051addd6f6b545edbc88, findElement {using=xpath, value=//input[@id='twotabsearchtextbox']}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 118.0.2088.46, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:60375}, msedge: {msedgedriverVersion: 118.0.2088.46 (175bd6acfc46..., userDataDir: C:\Users\albou\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60375/devtoo..., se:cdpVersion: 118.0.2088.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d1158545a6d5051addd6f6b545edbc88]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='twotabsearchtextbox']"}
+  (Session info: MicrosoftEdge=118.0.2088.46)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d1158545a6d5051addd6f6b545edbc88, findElement {using=xpath, value=//input[@id='twotabsearchtextbox']}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 118.0.2088.46, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:60375}, msedge: {msedgedriverVersion: 118.0.2088.46 (175bd6acfc46..., userDataDir: C:\Users\albou\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60375/devtoo..., se:cdpVersion: 118.0.2088.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d1158545a6d5051addd6f6b545edbc88
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at jdk.proxy2/jdk.proxy2.$Proxy16.sendKeys(Unknown Source)
+at com.amazon.base.Page.type(Page.java:69)
+at com.amazon.pages.HomePage.enterValidProductKeyWordIntoAmazonSearchBoxAndClickOnEnterKey(HomePage.java:40)
+at com.amazon.testCases.SearchTest.tc6_verifyThatUserIsAbleToGetSearchResultsWhenUserEntersValidProductKeyWordInAmazonSearchBox(SearchTest.java:69)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc6_verifyThatUserIsAbleToGetSearchResultsWhenUserEntersValidProductKeyWordInAmazonSearchBox -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:33:23 EDT" name="tearDown" finished-at="2023-10-17T12:33:23 EDT" duration-ms="437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:33:23 EDT" name="setUp" finished-at="2023-10-17T12:33:32 EDT" duration-ms="8935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="tc7_verifyThatUserIsAbleToGetSearchResultsWhenUserEntersNumeicValueIntoAmazonSearchchBox()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:33:32 EDT" name="tc7_verifyThatUserIsAbleToGetSearchResultsWhenUserEntersNumeicValueIntoAmazonSearchchBox" finished-at="2023-10-17T12:33:36 EDT" duration-ms="4034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc7_verifyThatUserIsAbleToGetSearchResultsWhenUserEntersNumeicValueIntoAmazonSearchchBox -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:33:36 EDT" name="tearDown" finished-at="2023-10-17T12:33:36 EDT" duration-ms="450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:33:36 EDT" name="setUp" finished-at="2023-10-17T12:33:41 EDT" duration-ms="4504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="tc8_verifyThatUserIsAbleToGetSearchResultsWhenUserEntersSpecialCharacterIntoAmazonSearchBox()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:33:41 EDT" name="tc8_verifyThatUserIsAbleToGetSearchResultsWhenUserEntersSpecialCharacterIntoAmazonSearchBox" finished-at="2023-10-17T12:33:46 EDT" duration-ms="5106" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='twotabsearchtextbox']"}
+  (Session info: MicrosoftEdge=118.0.2088.46)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [bb87cac0a3903abb707c3bf1a0f22489, findElement {using=xpath, value=//input[@id='twotabsearchtextbox']}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 118.0.2088.46, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:60583}, msedge: {msedgedriverVersion: 118.0.2088.46 (175bd6acfc46..., userDataDir: C:\Users\albou\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60583/devtoo..., se:cdpVersion: 118.0.2088.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bb87cac0a3903abb707c3bf1a0f22489]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='twotabsearchtextbox']"}
+  (Session info: MicrosoftEdge=118.0.2088.46)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [bb87cac0a3903abb707c3bf1a0f22489, findElement {using=xpath, value=//input[@id='twotabsearchtextbox']}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 118.0.2088.46, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:60583}, msedge: {msedgedriverVersion: 118.0.2088.46 (175bd6acfc46..., userDataDir: C:\Users\albou\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60583/devtoo..., se:cdpVersion: 118.0.2088.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bb87cac0a3903abb707c3bf1a0f22489
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at jdk.proxy2/jdk.proxy2.$Proxy16.sendKeys(Unknown Source)
+at com.amazon.base.Page.type(Page.java:69)
+at com.amazon.pages.HomePage.enterSpecialCharacterIntoAmazonSearchBoxAndClickOnEnterKey(HomePage.java:54)
+at com.amazon.testCases.SearchTest.tc8_verifyThatUserIsAbleToGetSearchResultsWhenUserEntersSpecialCharacterIntoAmazonSearchBox(SearchTest.java:82)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc8_verifyThatUserIsAbleToGetSearchResultsWhenUserEntersSpecialCharacterIntoAmazonSearchBox -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:33:46 EDT" name="tearDown" finished-at="2023-10-17T12:33:46 EDT" duration-ms="406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:33:46 EDT" name="setUp" finished-at="2023-10-17T12:33:55 EDT" duration-ms="8245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="tc9_verifyThatUserIsAbleToGetSearchResultsWhenUserEntersACombinationOfAlphanumericCharacters()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:33:55 EDT" name="tc9_verifyThatUserIsAbleToGetSearchResultsWhenUserEntersACombinationOfAlphanumericCharacters" finished-at="2023-10-17T12:34:00 EDT" duration-ms="5306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc9_verifyThatUserIsAbleToGetSearchResultsWhenUserEntersACombinationOfAlphanumericCharacters -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.testCases.SearchTest@75d4a5c2]" started-at="2023-10-17T12:34:00 EDT" name="tearDown" finished-at="2023-10-17T12:34:00 EDT" duration-ms="446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.amazon.testCases.SearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
